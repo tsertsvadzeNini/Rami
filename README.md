@@ -1,4 +1,3 @@
-# Epic Movie Quotes
 
 On our website users may sign up, go through authorization (includes email verification),retrive forgotten passwords and purchase product packages all with extra security. We also offer user friendly platform where user can update user name and profile image.
 
